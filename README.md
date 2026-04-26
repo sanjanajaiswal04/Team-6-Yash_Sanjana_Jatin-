@@ -3,7 +3,7 @@
 ## Project Overview
 A full stack web application to manage student team members built using React.js for frontend and Node.js, Express.js, MongoDB for backend.
 
-## Technologies Used
+### Technologies Used
 
 ### Frontend
 - React.js

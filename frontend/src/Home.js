@@ -5,7 +5,7 @@ function Home() {
   const navigate = useNavigate();
 
   return (
-    <div className="container">
+    <div className="home-page">
       <h1>Team 6 (Yash_Sanjana_Jatin)</h1>
       <p>Welcome to our team portal</p>
       <div className="home-box">

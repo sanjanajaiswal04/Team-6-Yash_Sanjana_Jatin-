@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 
 function Home() {
   const navigate = useNavigate();
-
+  
   return (
     <div className="container">
       <h1>Team 6 (Yash_Sanjana_Jatin)</h1>
